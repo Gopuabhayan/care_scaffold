@@ -38,7 +38,7 @@ cores, and verify it end to end.
 | [`templates/backend/`](templates/backend/) | Runnable Django plugin skeleton (`__PLUGIN_SNAKE__`). |
 | [`templates/frontend/`](templates/frontend/) | Runnable federated Vite plugin skeleton (`__PLUGIN_FE__`). |
 | [`scripts/new-plugin.sh`](scripts/new-plugin.sh) | Materializes both templates with your plugin's name. |
-| [`reference/`](reference/) | Worked example: the LiveKit teleconsultation plugin, start to finish. |
+| [`reference/`](reference/) | Worked examples: the LiveKit teleconsultation and screening programme plugins. |
 
 ## The prime directive
 
